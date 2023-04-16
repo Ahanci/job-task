@@ -1,3 +1,5 @@
+# DİKKAT!
+Gönderilen tasarım ve buradaki işlevselliği tamamen yapmış olsam da dosyaya ilave edilebilecek aslında birsürü husus daha var, olabildiğinde, ypuğunluğum arasında bu kadar zaman ayırabildim, herhangi bir css kütüphanesi kullanmadan pure jsx kullanarak hazırlanmıştır, zaman ayırdığınız için teşekkürler.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

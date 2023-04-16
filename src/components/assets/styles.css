@@ -1,0 +1,65 @@
+.taskButton{
+    font-size: 2rem !important;
+    background:#CD4631 ;
+    border-radius: 10px;
+    color:#F8F2DC;
+}
+.taskButton:hover{
+    background-color:#F8F2DC ;
+    color:#CD4631;
+}
+.radioContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+.customSelect{
+width: 200px;
+height: 48px;
+margin: 16px;
+font-size: 16px;
+
+}
+.customSelect >option{
+    font-size: 16px;
+
+}
+.loading{
+    z-index: 1000;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tableContainer {
+    min-width: 500px;
+    min-height: 500px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-table {
+    border: 1px solid black;
+  }
+  
+  .custom-table thead {
+    background-color: lightgrey;
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  .buttonContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 16px;
+
+}

@@ -1,0 +1,27 @@
+.tasksContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.formItemContainer {
+  margin: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  min-height: 200px;
+  width: 50%;
+}
+.header {
+  margin: 16px;
+}
+.buttonContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 16px;
+
+}
